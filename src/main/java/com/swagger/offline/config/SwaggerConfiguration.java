@@ -1,4 +1,4 @@
-package com.chinamobile.iot.config;
+package com.swagger.offline.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

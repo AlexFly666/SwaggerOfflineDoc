@@ -1,4 +1,4 @@
-package com.chinamobile.iot.model;
+package com.swagger.offline.model;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
@@ -6,7 +6,7 @@ import io.swagger.annotations.ApiModelProperty;
 /**
  * @version V1.0
  * @Title:
- * @ClassName: com.chinamobile.iot.model.User.java
+ * @ClassName: User.java
  * @Description:
  * @Copyright 2016-2018 新开普 - Powered By 研发中心
  * @author: 王延飞

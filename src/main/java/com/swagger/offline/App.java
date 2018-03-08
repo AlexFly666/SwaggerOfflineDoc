@@ -1,10 +1,17 @@
-package com.chinamobile.iot;
+package com.swagger.offline;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Created by szl on 2017/1/9.
+ * @Title: 启动类
+ * @ClassName: App.java
+ * @Description:
+ *
+ * @Copyright 2016-2018 新开普 - Powered By 研发中心
+ * @author: 王延飞
+ * @date: 2018-03-08 10:22
+ * @version V1.0
  */
 @SpringBootApplication
 public class App {

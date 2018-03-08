@@ -1,6 +1,6 @@
-package com.chinamobile.iot.controller;
+package com.swagger.offline.controller;
 
-import com.chinamobile.iot.model.User;
+import com.swagger.offline.model.User;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.http.MediaType;
@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 /**
  * @version V1.0
  * @Title:
- * @ClassName: com.chinamobile.iot.controller.UserController.java
+ * @ClassName: UserController.java
  * @Description:
  * @Copyright 2016-2018 新开普 - Powered By 研发中心
  * @author: 王延飞

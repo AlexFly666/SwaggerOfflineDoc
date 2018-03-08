@@ -1,7 +1,7 @@
-package com.chinamobile.iot;
+package com.swagger.offline;
 
 import com.alibaba.fastjson.JSON;
-import com.chinamobile.iot.model.User;
+import com.swagger.offline.model.User;
 import io.github.robwin.markup.builder.MarkupLanguage;
 import io.github.robwin.swagger2markup.GroupBy;
 import io.github.robwin.swagger2markup.Swagger2MarkupConverter;
@@ -27,7 +27,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 /**
  * @version V1.0
  * @Title:
- * @ClassName: com.chinamobile.iot.SwaggerStaticDocTest.java
+ * @ClassName: SwaggerStaticDocTest.java
  * @Description:
  * @Copyright 2016-2018 新开普 - Powered By 研发中心
  * @author: 王延飞
