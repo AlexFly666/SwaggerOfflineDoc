@@ -23,7 +23,7 @@ import org.springframework.web.bind.annotation.*;
 public class UserController {
 
     @ApiOperation(value = "/getUser", notes = "根据姓名查询用户信息")
-    @RequestMapping(value = "getUser", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
+    @RequestMapping(value = "getUserww", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
     @ResponseBody
     public User getUser(@RequestParam("name") String name) {
         User user = new User();
