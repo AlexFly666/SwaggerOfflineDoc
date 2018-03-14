@@ -27,10 +27,10 @@ public class UserController {
     @ResponseBody
     public User getUser(@RequestParam("name") String name) {
         User user = new User();
-        user.setId(456789);
+        user.setId(123456789);
         user.setName(name);
         user.setAge(27);
-        user.setAddress("重庆沙坪坝");
+        user.setAddress("重庆沙坪坝区");
         user.setSex("男");
         return user;
     }
