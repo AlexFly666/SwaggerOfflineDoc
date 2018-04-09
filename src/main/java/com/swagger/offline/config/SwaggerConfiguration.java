@@ -16,7 +16,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * @Title: Swagger配置类
  * @ClassName: com.newcapec.config.swagger.Swagger2Configuration.java
  * @Description:
- * @Copyright 2016-2017 新开普 - Powered By 研发中心
+ * @Copyright 2016-2017  - Powered By 研发中心
  * @author: 王延飞
  * @date:2017-12-11 8:20
  */
@@ -30,7 +30,7 @@ public class SwaggerConfiguration {
                 .apiInfo(buildApiInfo())
                 .select()
                 //要扫描的API(Controller)基础包
-                .apis(RequestHandlerSelectors.basePackage("com.chinamobile.iot.controller"))
+                .apis(RequestHandlerSelectors.basePackage("com.swagger.offline.controller"))
                 .paths(PathSelectors.any())
                 .build();
     }

@@ -8,7 +8,7 @@ import io.swagger.annotations.ApiModelProperty;
  * @Title:
  * @ClassName: User.java
  * @Description:
- * @Copyright 2016-2018 新开普 - Powered By 研发中心
+ * @Copyright 2016-2018  - Powered By 研发中心
  * @author: 王延飞
  * @date: 2018-01-22 16:06
  */

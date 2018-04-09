@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @ClassName: App.java
  * @Description:
  *
- * @Copyright 2016-2018 新开普 - Powered By 研发中心
+ * @Copyright 2016-2018  - Powered By 研发中心
  * @author: 王延飞
  * @date: 2018-03-08 10:22
  * @version V1.0
